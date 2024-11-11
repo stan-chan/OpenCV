@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+D:/Opencv/4.10.0/opencv-4.10.0/modules/core/misc/java/src/java/core+Core.jcode.in
+D:/Opencv/4.10.0/opencv-4.10.0/modules/java/common.cmake
+D:/Opencv/4.10.0/opencv-4.10.0/modules/java/generator/CMakeLists.txt
+D:/Opencv/4.10.0/opencv-4.10.0/modules/java/generator/android/java/org/opencv/android/OpenCVLoader.java.in
+D:/Opencv/4.10.0/opencv-4.10.0/modules/java/generator/src/java/org/opencv/osgi/OpenCVNativeLoader.java.in

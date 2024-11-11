@@ -1,0 +1,17 @@
+# Target labels
+ Extra
+ opencv_cudaoptflow
+ PerfTest
+# Source files and their labels
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cudaoptflow/perf/perf_main.cpp
+ Extra
+ opencv_cudaoptflow
+ PerfTest
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cudaoptflow/perf/perf_optflow.cpp
+ Extra
+ opencv_cudaoptflow
+ PerfTest
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cudaoptflow/perf/perf_precomp.hpp
+ Extra
+ opencv_cudaoptflow
+ PerfTest

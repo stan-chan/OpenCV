@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\opencl\perf_3vs4.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\opencl\perf_accumulate.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\opencl\perf_blend.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\opencl\perf_color.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\opencl\perf_filters.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\opencl\perf_gftt.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\opencl\perf_houghlines.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\opencl\perf_imgproc.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\opencl\perf_imgwarp.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\opencl\perf_matchTemplate.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\opencl\perf_moments.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\opencl\perf_pyramid.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_accumulate.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_bilateral.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_blur.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_canny.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_contours.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_corners.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_cvt_color.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_distanceTransform.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_filter2d.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_floodfill.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_goodFeaturesToTrack.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_histogram.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_houghcircles.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_houghlines.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_integral.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_intelligent_scissors.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_main.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_matchTemplate.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_moments.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_morph.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_phasecorr.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_pyramids.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_remap.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_resize.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_sepfilters.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_spatialgradient.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_threshold.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_warp.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\imgproc\perf\perf_precomp.hpp">
+      <Filter>opencv_imgproc\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_imgproc">
+      <UniqueIdentifier>{DB92543B-14FB-3DAE-9CBC-58183403C7D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_imgproc\Include">
+      <UniqueIdentifier>{52B9E9E6-6F39-3E34-8C83-5F73949D9435}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_imgproc\Src">
+      <UniqueIdentifier>{BFA902C2-3C9D-3D5E-89AD-CA196A3CB17A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_imgproc\Src\opencl">
+      <UniqueIdentifier>{178C5B5A-0DA7-3C24-874C-15E1FFC72A9D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

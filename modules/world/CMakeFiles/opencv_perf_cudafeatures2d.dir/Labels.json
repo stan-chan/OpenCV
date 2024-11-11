@@ -1,0 +1,42 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cudafeatures2d/perf/perf_features2d.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_cudafeatures2d",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cudafeatures2d/perf/perf_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_cudafeatures2d",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cudafeatures2d/perf/perf_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_cudafeatures2d",
+				"PerfTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_cudafeatures2d",
+			"PerfTest"
+		],
+		"name" : "opencv_perf_cudafeatures2d"
+	}
+}

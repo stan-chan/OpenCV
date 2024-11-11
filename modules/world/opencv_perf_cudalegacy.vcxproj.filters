@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\perf\perf_bgsegm.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\perf\perf_calib3d.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\perf\perf_labeling.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\perf\perf_main.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\perf\perf_precomp.hpp">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudalegacy">
+      <UniqueIdentifier>{D851E967-9B63-391E-B641-06D62F4B2785}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudalegacy\Include">
+      <UniqueIdentifier>{2D4935F9-094A-389E-97B9-829B7EF83831}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudalegacy\Src">
+      <UniqueIdentifier>{BD48A000-53E6-3910-8300-031710AB6A43}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

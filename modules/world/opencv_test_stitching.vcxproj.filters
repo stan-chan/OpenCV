@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\stitching\test\ocl\test_warpers.cpp">
+      <Filter>opencv_stitching\Src\ocl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\stitching\test\test_blenders.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\stitching\test\test_blenders.cuda.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\stitching\test\test_exposure_compensate.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\stitching\test\test_main.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\stitching\test\test_matchers.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\stitching\test\test_reprojection.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\stitching\test\test_stitcher.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\stitching\test\test_wave_correction.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\stitching\test\test_precomp.hpp">
+      <Filter>opencv_stitching\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_stitching">
+      <UniqueIdentifier>{05C8A325-623D-3DA2-990C-E43B8999CEDF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_stitching\Include">
+      <UniqueIdentifier>{2B3DDC22-60C1-33CC-8A68-73BB2E447781}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_stitching\Src">
+      <UniqueIdentifier>{FFC51BE0-754B-3192-9C78-A7D8B2AE5238}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_stitching\Src\ocl">
+      <UniqueIdentifier>{B3259571-60D1-3970-85DD-2074787AA7CA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,35 @@
+# Target labels
+ Extra
+ opencv_cvv
+ AccuracyTest
+# Source files and their labels
+D:/Opencv/4.10.0/build/modules/world/opencv_test_cvv_autogen/mocs_compilation_Debug.cpp
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cvv/test/test_debug_flag.cpp
+ Extra
+ opencv_cvv
+ AccuracyTest
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cvv/test/test_is_any_of.cpp
+ Extra
+ opencv_cvv
+ AccuracyTest
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cvv/test/test_location.cpp
+ Extra
+ opencv_cvv
+ AccuracyTest
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cvv/test/test_main.cpp
+ Extra
+ opencv_cvv
+ AccuracyTest
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cvv/test/test_observer_ptr.cpp
+ Extra
+ opencv_cvv
+ AccuracyTest
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cvv/test/test_reference.cpp
+ Extra
+ opencv_cvv
+ AccuracyTest
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cvv/test/test_precomp.hpp
+ Extra
+ opencv_cvv
+ AccuracyTest
+D:/Opencv/4.10.0/build/modules/world/opencv_test_cvv_autogen/mocs_compilation_Release.cpp

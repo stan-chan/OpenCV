@@ -1,0 +1,11 @@
+# CMake generation dependency list for this directory.
+C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckCSourceCompiles.cmake
+C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckFunctionExists.cmake
+C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckIncludeFile.cmake
+C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckIncludeFileCXX.cmake
+C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckTypeSize.cmake
+C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/TestBigEndian.cmake
+D:/Opencv/4.10.0/opencv-4.10.0/3rdparty/libtiff/CMakeLists.txt
+D:/Opencv/4.10.0/opencv-4.10.0/3rdparty/libtiff/tif_config.h.cmake.in
+D:/Opencv/4.10.0/opencv-4.10.0/3rdparty/libtiff/tiffconf.h.cmake.in
+D:/Opencv/4.10.0/opencv-4.10.0/3rdparty/libtiff/tiffvers.h.cmake.in

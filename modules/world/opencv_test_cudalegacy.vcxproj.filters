@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestCompact.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestDrawRects.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestHaarCascadeApplication.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestHaarCascadeLoader.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestHypothesesFilter.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestHypothesesGrow.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestIntegralImage.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestIntegralImageSquared.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestRectStdDev.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestResize.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestTranspose.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\main_nvidia.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\test_calib3d.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\test_labeling.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\test_main.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\test_nvidia.cpp">
+      <Filter>opencv_cudalegacy\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\NCVAutoTestLister.hpp">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\NCVTest.hpp">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\NCVTestSourceProvider.hpp">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestCompact.h">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestDrawRects.h">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestHaarCascadeApplication.h">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestHaarCascadeLoader.h">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestHypothesesFilter.h">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestHypothesesGrow.h">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestIntegralImage.h">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestIntegralImageSquared.h">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestRectStdDev.h">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestResize.h">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\TestTranspose.h">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\main_test_nvidia.h">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudalegacy\test\test_precomp.hpp">
+      <Filter>opencv_cudalegacy\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudalegacy">
+      <UniqueIdentifier>{D851E967-9B63-391E-B641-06D62F4B2785}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudalegacy\Include">
+      <UniqueIdentifier>{2D4935F9-094A-389E-97B9-829B7EF83831}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudalegacy\Src">
+      <UniqueIdentifier>{BD48A000-53E6-3910-8300-031710AB6A43}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

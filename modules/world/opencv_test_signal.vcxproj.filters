@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\signal\test\test_main.cpp">
+      <Filter>opencv_signal\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\signal\test\test_signal.cpp">
+      <Filter>opencv_signal\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\signal\test\test_precomp.hpp">
+      <Filter>opencv_signal\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_signal">
+      <UniqueIdentifier>{832AF09D-B933-3060-B1CC-36878D5FEB97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_signal\Include">
+      <UniqueIdentifier>{864405A2-C3A3-3B65-824C-1B5ADCF24F4E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_signal\Src">
+      <UniqueIdentifier>{7DCC8E9D-F964-353A-BAB0-B41C82D8581D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

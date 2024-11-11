@@ -1,0 +1,8 @@
+# CMake generation dependency list for this directory.
+C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckCSourceCompiles.cmake
+C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckIncludeFile.cmake
+C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckLibraryExists.cmake
+C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake
+C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/FindPackageMessage.cmake
+C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/FindThreads.cmake
+D:/Opencv/4.10.0/opencv-4.10.0/3rdparty/openjpeg/openjp2/CMakeLists.txt

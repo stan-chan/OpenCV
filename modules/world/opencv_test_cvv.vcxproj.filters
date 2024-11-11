@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Opencv\4.10.0\build\modules\world\opencv_test_cvv_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cvv\test\test_debug_flag.cpp">
+      <Filter>opencv_cvv\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cvv\test\test_is_any_of.cpp">
+      <Filter>opencv_cvv\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cvv\test\test_location.cpp">
+      <Filter>opencv_cvv\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cvv\test\test_main.cpp">
+      <Filter>opencv_cvv\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cvv\test\test_observer_ptr.cpp">
+      <Filter>opencv_cvv\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cvv\test\test_reference.cpp">
+      <Filter>opencv_cvv\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\build\modules\world\opencv_test_cvv_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cvv\test\test_precomp.hpp">
+      <Filter>opencv_cvv\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6E991933-4C77-317E-81D5-4FD760DAEF8E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cvv">
+      <UniqueIdentifier>{15C6F57F-4C54-38EC-8BA1-2C1B42EE5F97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cvv\Include">
+      <UniqueIdentifier>{B44F9DDD-2095-3502-8D80-EAA0AC17BFA1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cvv\Src">
+      <UniqueIdentifier>{3ED17400-4483-37BB-8794-98A4E3241ECB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

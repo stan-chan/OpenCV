@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\face\test\test_bif.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\face\test\test_face_align.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\face\test\test_facemark.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\face\test\test_facemark_aam.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\face\test\test_facemark_lbf.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\face\test\test_loadsave.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\face\test\test_mace.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\face\test\test_main.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\face\test\test_precomp.hpp">
+      <Filter>opencv_face\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_face">
+      <UniqueIdentifier>{1DFB306E-3313-3E1C-8792-278E80EACFC0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_face\Include">
+      <UniqueIdentifier>{49A59CDF-CFC4-35F9-89DC-CE406905D6B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_face\Src">
+      <UniqueIdentifier>{8E22A1E6-3709-388D-9A73-E38AEE18DCBB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

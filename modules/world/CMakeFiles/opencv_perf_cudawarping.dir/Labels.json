@@ -1,0 +1,42 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cudawarping/perf/perf_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_cudawarping",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cudawarping/perf/perf_warping.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_cudawarping",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cudawarping/perf/perf_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_cudawarping",
+				"PerfTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_cudawarping",
+			"PerfTest"
+		],
+		"name" : "opencv_perf_cudawarping"
+	}
+}

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudawarping\test\test_main.cpp">
+      <Filter>opencv_cudawarping\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudawarping\test\test_pyramids.cpp">
+      <Filter>opencv_cudawarping\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudawarping\test\test_remap.cpp">
+      <Filter>opencv_cudawarping\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudawarping\test\test_resize.cpp">
+      <Filter>opencv_cudawarping\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudawarping\test\test_warp_affine.cpp">
+      <Filter>opencv_cudawarping\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudawarping\test\test_warp_perspective.cpp">
+      <Filter>opencv_cudawarping\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudawarping\test\interpolation.hpp">
+      <Filter>opencv_cudawarping\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\cudawarping\test\test_precomp.hpp">
+      <Filter>opencv_cudawarping\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudawarping">
+      <UniqueIdentifier>{B5A32502-1868-3304-9072-7860811D440F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudawarping\Include">
+      <UniqueIdentifier>{5B03F8EC-38FB-326C-9EE8-A743FD4F17A0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudawarping\Src">
+      <UniqueIdentifier>{F992D372-7662-3FB8-A36E-58692606F896}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

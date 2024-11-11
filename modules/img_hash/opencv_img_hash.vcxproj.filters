@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\src\average_hash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\src\block_mean_hash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\src\color_moment_hash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\src\img_hash_base.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\src\marr_hildreth_hash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\src\phash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\src\radial_variance_hash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\build\modules\img_hash\opencv_img_hash_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\include\opencv2\img_hash.hpp">
+      <Filter>Include\opencv2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\include\opencv2\img_hash\average_hash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\include\opencv2\img_hash\block_mean_hash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\include\opencv2\img_hash\color_moment_hash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\include\opencv2\img_hash\img_hash_base.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\include\opencv2\img_hash\marr_hildreth_hash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\include\opencv2\img_hash\phash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\include\opencv2\img_hash\radial_variance_hash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\src\precomp.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\build\cvconfig.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Opencv\4.10.0\build\opencv2\opencv_modules.hpp">
+      <Filter>Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\img_hash\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\Opencv\4.10.0\build\modules\img_hash\vs_version.rc">
+      <Filter>Src</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Include">
+      <UniqueIdentifier>{32BD9677-C730-38EA-AE49-2FBB6B708309}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2">
+      <UniqueIdentifier>{F1EAA7D9-B502-320F-B5BA-85B341B09B58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2\img_hash">
+      <UniqueIdentifier>{742AE552-8F5D-3B8F-8942-7B809C07A646}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6E991933-4C77-317E-81D5-4FD760DAEF8E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{8B6019C8-C8D8-33C7-AB8D-E450B00D4B97}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

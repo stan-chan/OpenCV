@@ -1,0 +1,17 @@
+# Target labels
+ Extra
+ opencv_cudacodec
+ PerfTest
+# Source files and their labels
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cudacodec/perf/perf_main.cpp
+ Extra
+ opencv_cudacodec
+ PerfTest
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cudacodec/perf/perf_video.cpp
+ Extra
+ opencv_cudacodec
+ PerfTest
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/cudacodec/perf/perf_precomp.hpp
+ Extra
+ opencv_cudacodec
+ PerfTest

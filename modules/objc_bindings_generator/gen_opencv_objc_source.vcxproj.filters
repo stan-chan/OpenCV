@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Opencv\4.10.0\build\CMakeFiles\33bc29e0b8f702349486eab6a7c0d63c\gen_opencv_objc_source.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\objc\generator\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Opencv\4.10.0\build\modules\objc_bindings_generator\CMakeFiles\gen_opencv_objc_source" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C0FEDA0E-3199-3EAF-AA35-87746A18D248}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

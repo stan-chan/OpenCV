@@ -1,0 +1,8 @@
+# CMake generation dependency list for this directory.
+C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckIncludeFile.cmake
+C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckIncludeFiles.cmake
+C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckSymbolExists.cmake
+C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/TestBigEndian.cmake
+D:/Opencv/4.10.0/opencv-4.10.0/3rdparty/openjpeg/CMakeLists.txt
+D:/Opencv/4.10.0/opencv-4.10.0/3rdparty/openjpeg/openjp2/opj_config.h.cmake.in
+D:/Opencv/4.10.0/opencv-4.10.0/3rdparty/openjpeg/openjp2/opj_config_private.h.cmake.in

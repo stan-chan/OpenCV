@@ -1,0 +1,17 @@
+# Target labels
+ Extra
+ opencv_wechat_qrcode
+ PerfTest
+# Source files and their labels
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/wechat_qrcode/perf/perf_main.cpp
+ Extra
+ opencv_wechat_qrcode
+ PerfTest
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/wechat_qrcode/perf/perf_wechat_qrcode_pipeline.cpp
+ Extra
+ opencv_wechat_qrcode
+ PerfTest
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/wechat_qrcode/perf/perf_precomp.hpp
+ Extra
+ opencv_wechat_qrcode
+ PerfTest

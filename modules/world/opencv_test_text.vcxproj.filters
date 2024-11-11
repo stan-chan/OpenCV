@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\text\test\test_detection.cpp">
+      <Filter>opencv_text\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\text\test\test_detection_swt.cpp">
+      <Filter>opencv_text\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\text\test\test_main.cpp">
+      <Filter>opencv_text\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Opencv\4.10.0\opencv_contrib-4.10.0\modules\text\test\test_precomp.hpp">
+      <Filter>opencv_text\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Opencv\4.10.0\opencv-4.10.0\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_text">
+      <UniqueIdentifier>{54B98731-7373-3BC0-9EA1-D99D8CF832B0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_text\Include">
+      <UniqueIdentifier>{CA0493DA-614B-3189-8740-9B8C0B1FE79F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_text\Src">
+      <UniqueIdentifier>{E318CA9C-C524-3FC7-BC2F-81A071CC64BD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

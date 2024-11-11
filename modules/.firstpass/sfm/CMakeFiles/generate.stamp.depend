@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/sfm/CMakeLists.txt
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/sfm/cmake/FindGflags.cmake
+D:/Opencv/4.10.0/opencv_contrib-4.10.0/modules/sfm/cmake/FindGlog.cmake
